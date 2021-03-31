@@ -7,4 +7,8 @@ b1 4th commit
 b1 5th commit
 b2 1st commit
 b2 2nd commit
+<<<<<<< HEAD
 b2 3rd commit
+=======
+b2 3rd commit
+>>>>>>> b2

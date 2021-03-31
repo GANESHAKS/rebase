@@ -4,3 +4,10 @@ b1 branch 1st commit
 b1 2nd commit
 b1 3rd commit
 b1 4th commit
+<<<<<<< HEAD
+=======
+b1 5th commit
+b2 1st commit
+b2 2nd commit
+b2 3rd commit
+>>>>>>> 34c7730 (stashed)
